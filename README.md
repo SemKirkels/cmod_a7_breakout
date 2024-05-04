@@ -8,7 +8,7 @@ Check the list below to see what has been provided so far.
     
 - [ ] Schematics & PCB-Design
 - [ ] Gerber files
-- [ ] Custom XDC
+- [x] Custom XDC
 - [ ] AXI4-Lite blocks
 
 The table below shows the different connections of the board.
