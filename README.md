@@ -40,6 +40,6 @@ The table below shows the different connections of the board.
 | Seven segment [DP]    | 23      |     | 26      | DIP [1]           |
 | VU                    | 24      |     | 25      | GND               |
 
-*The numbering includes the onboard LEDs and Buttons.
-*The ADC, VU and GND will be connected to external headers for easy access.
-*The buttons and switches do not have a debounce circuit, its up to the end user to write this in an HDL.
+*The numbering includes the onboard LEDs and Buttons.  
+*The ADC, VU and GND will be connected to external headers for easy access.  
+*The buttons and switches do not have a debounce circuit, its up to the end user to write this in an HDL.  
