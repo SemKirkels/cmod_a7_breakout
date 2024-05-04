@@ -1,4 +1,4 @@
-# cmod_a7_breakout
+# cmod a7 breakout
 The breakout board is designed for the Digilent CMOD A7. The DIP 48 headers will be brought to various components such as:  A seven-segment display, additional LEDs (8 yellow and 2 RGB), Additional push buttons and switches and a PMOD header.  
 
 In this repo, you will find the gerber files, bill of materials, a KiCad project and a custom XDC file for the breakout board.  
